@@ -12,7 +12,7 @@
 </template>
 
 <script setup lang="ts">
-import StarTable from '@/StarTable.vue';
+import StarTable from './StarTable.vue';
 import PublicBookReview from '../model/PublicBookReview';
 import { ref, onMounted } from 'vue';
 
